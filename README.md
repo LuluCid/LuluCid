@@ -4,11 +4,7 @@
 
 ### Hi there 👋
 
- <div>
-  <a href="https://github.com/LuluCid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuluCid&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=3399ff&border_radius=10"/>
-  <img height="180em" aligh="right" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluCid&layout=compact&langs_count=7&theme=midnight-blue&border_color=3399ff&border_radius=10"/>
-</div>
+
   
   
 
