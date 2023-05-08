@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006600&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luana+Cid;I'm+19+years+old;Be+Welcome!+)](https://git.io/typing-svg)
 
-### Hi there 👋
+
+
+
+<a href="https://github.com/LuluCid">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuluCid&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0c1a25&border_radius=10"/>
 
 
   
