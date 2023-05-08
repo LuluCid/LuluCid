@@ -4,10 +4,10 @@
 
 
 
-
+ <div>
 <a href="https://github.com/LuluCid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuluCid&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0c1a25&border_radius=10"/>
-
+ </div>
 
   
   
