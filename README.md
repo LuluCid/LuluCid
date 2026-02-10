@@ -40,20 +40,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no Rio de Janeiro e 
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuluCid&show_icons=true&theme=rose_pine&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=e0def4&bg_color=191724" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluCid&layout=compact&theme=rose_pine&hide_border=true&title_color=FF69B4&text_color=e0def4&bg_color=191724" />
-</div>
-
----
 
 <div align="center">
   <p>Feito com ❤️ por Luana Cid</p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="https://www.linkedin.com/in/luana-cid-77557322a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
