@@ -1,37 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Luana%20Cid&fontSize=80&animation=fadeIn&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Luana%20Cid&fontSize=70&animation=fadeIn&fontColor=000000" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+%26+Database+Lover;Next.js+%2B+NestJS;Sistemas+de+Informação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+✨;Systems+Analysis+Student+🎓;Backend+%26+Database+Lover+💻" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌸 Sobre Mim
+### 🎀 Sobre Mim
 
-Olá! Sou a **Luana**, moro no Rio de Janeiro e sou apaixonada por transformar ideias em código. Atualmente, curso **Análise e Desenvolvimento de Sistemas** e foco meus estudos no ecossistema JavaScript/TypeScript.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no Rio de Janeiro e atuo como **Desenvolvedora Full Stack**. Tenho um carinho especial por backend e modelagem de dados. No momento, estou focada em aperfeiçoar minhas habilidades com o ecossistema JavaScript/TypeScript e me preparando para desafios no setor público.
 
-- 👩‍💻 **Trabalho:** Desenvolvedora Full Stack (Modelo Híbrido).
-- 🎓 **Focada em:** Next.js, NestJS e arquitetura de sistemas.
-- 🐈 **Vida Pessoal:** Mãe de duas gatinhas e fã da estética Studio Ghibli.
-- 🎯 **Objetivo Atual:** Aprimorar minhas habilidades.
+- 🏢 Trabalho em modelo híbrido.
+- 🐱 Apaixonada por tecnologia, design de interiores e minhas duas gatinhas.
+- 🎨 Adoro a estética do **Studio Ghibli** e designs que combinam **Pink & Black**.
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+### 🚀 O que estou construindo?
 
-<div align="center">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+- **Study Management App:** Uma aplicação completa para gestão de estudos utilizando **Next.js** e **NestJS**.
+- **Financial Control:** Website prático e minimalista para controle financeiro pessoal.
+- **Seating Arrangement System:** Sistema inteligente para organização de assentos.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 📊 GitHub Stats
 
-- 📊 **Study Management App:** Aplicação completa para gerenciar rotinas de estudo usando Next.js e NestJS.
-- 💰 **Financial Control:** Website
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuluCid&show_icons=true&theme=rose_pine&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=e0def4&bg_color=191724" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluCid&layout=compact&theme=rose_pine&hide_border=true&title_color=FF69B4&text_color=e0def4&bg_color=191724" />
+</div>
+
+---
+
+<div align="center">
+  <p>Feito com ❤️ por Luana Cid</p>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
